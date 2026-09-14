@@ -9,6 +9,8 @@ This project demonstrates the implementation of a single-variable Linear Regress
 
 
 
+
+
 # Multiple Linear Regression: Hardware Performance Prediction
 This project explores the implementation of a Multiple Linear Regression model to estimate the relative CPU performance of computer hardware. Utilizing the UCI Computer Hardware dataset, the model predicts the Estimated Relative Performance (ERP) based on six continuous hardware specifications, including machine cycle time, main memory, and cache memory.
 
